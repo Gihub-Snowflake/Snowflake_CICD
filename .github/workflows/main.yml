@@ -14,8 +14,8 @@ on:
 
 jobs:
   deploy-snowflake-changes-job:
-    runs-on: ubuntu-latest
     timeout-minutes: 05
+    runs-on: ubuntu-latest
     environment: DEV
     
 

@@ -1,0 +1,1 @@
+UPDATE SPINCO_SRC.DIM_ORDERS SET ORDERSTATUS = 'S' where orderstatus = 'F';
